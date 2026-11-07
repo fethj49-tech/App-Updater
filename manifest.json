@@ -1,0 +1,15 @@
+{
+  "name": "TechroLim AI App Updater",
+  "short_name": "AppUpdater",
+  "start_url": "./appupdater.html",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#0f1420",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/07090e/f59e0b?text=AU",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
